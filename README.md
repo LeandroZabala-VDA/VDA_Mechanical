@@ -30,6 +30,14 @@ This repository contains the mechanical design files for the **VDA Signal Acquis
 
 - The main enclosure is assembled using two half-shells joined by screws. Front and rear panels are implemented as PCBs for manufacturing simplicity and connector alignment.
 
+## 🛡 License
+
+All 3D models and mechanical files are shared under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You may copy, remix, transform, and build upon the material for non-commercial purposes, as long as proper credit is given.
+
+🔗 https://creativecommons.org/licenses/by-nc/4.0/
+
 ## 📬 Contact
 
 For further information or collaboration proposals, please open an issue or contact me.
